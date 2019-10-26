@@ -11,6 +11,7 @@ namespace ExampleMethodTest
         {
             bool respMethod = Class1.Calcolo1();
             Assert.AreEqual(false, respMethod);
+
         }
     }
 }
